@@ -10,7 +10,7 @@
 *
 * See the [Open Source License] for more details.
 *
-* Oringial Author: Zhenjie Wei
+* Original Author: Zhenjie Wei
 * Created: Jul. 20, 2023
 * Supported by: National Key Research and Development Program of China
 * 
